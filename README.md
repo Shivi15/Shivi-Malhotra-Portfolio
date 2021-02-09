@@ -1,6 +1,9 @@
-# Shivi-Malhotra-Portfolio
+title: Shivi Malhotra
 
-Data Science Portfolio
+Master's in Data Science from Illinois Institute of Technology, Chicago
+
+logo: "/Shivi Malhotra Profile PIcture.jpg?raw=true"
+
 
 # [Project 1: Covid-19 Spread in US - Project Overview](https://github.com/Shivi15/Covid-19-Spread-in-US)
 * Analyzed the spread and gradual shift of Covid-19 prone counties in the US.
