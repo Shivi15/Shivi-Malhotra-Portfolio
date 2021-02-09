@@ -1,8 +1,8 @@
-title: Shivi Malhotra
+#Shivi Malhotra
 
 Master's in Data Science from Illinois Institute of Technology, Chicago
 
-logo: "/Shivi Malhotra Profile PIcture.jpg?raw=true"
+![](/Shivi Malhotra Profile PIcture.jpg)
 
 
 # [Project 1: Covid-19 Spread in US - Project Overview](https://github.com/Shivi15/Covid-19-Spread-in-US)
