@@ -51,5 +51,3 @@ A review dataset is taken to derive more insights about the amenities. Customer 
 A term document matrix has been created which uses the Airbnb customer reviews to find word associations, given a word it gives back closest words in reviews. Keywords like near, close, around, great, place, transit, store are used to find word associations. Finding associations has revealed some interesting insights. New amenities that interest Airbnb customers are found. These are the amenities that are missing in the primary dataset. As this information is missing in our primary dataset, we relied on foursquare API to get information about nearby amenities.
 </p>
 ![](/Airbnb Data Analysis/Tweets.png)
-
-</p>
