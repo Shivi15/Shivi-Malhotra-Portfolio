@@ -1,7 +1,7 @@
 Master's in Data Science
 Illinois Institute of Technology, Chicago, IL
 
-![](/Shivi Malhotra Profile PIcture.jpg)
+![alt text](/Shivi Malhotra Profile PIcture.jpg)
 
 # [Project 1: Covid-19 Spread in US - Project Overview](https://github.com/Shivi15/Covid-19-Spread-in-US)
 * Analyzed the spread and gradual shift of Covid-19 prone counties in the US.
