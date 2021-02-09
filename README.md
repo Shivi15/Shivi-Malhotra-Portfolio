@@ -14,7 +14,7 @@ Illinois Institute of Technology, Chicago, IL
 Let’s look more closely at the top 10 counties by number of cases.
 
 <p align="center">
-  <img width="400" height="300" src="/Covid-19 Spread images/Counties ranked by Cumulative cases and deaths.gif">
+  <img width="400" height="300" src="https://github.com/Shivi15/Shivi-Malhotra-Portfolio/blob/main/Covid-19%20Spread%20images/Counties%20ranked%20by%20Cumulative%20cases%20and%20deaths.gif">
 </p>
   
 Percentage of Population infected by County over time.
