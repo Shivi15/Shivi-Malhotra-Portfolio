@@ -36,3 +36,24 @@ Output for the User ID 364 (picked just for example), the following movies are r
 
 ![](/Movie Recommendation System/Output.png)
 
+# [Project 3: Airbnb Data Analysis - Project Overview](https://github.com/LohithChowdary/Airbnb-Data-Analysis)
+* Analyzed Airbnb listings in New York City to understand if nonstandard amenities can be added to increase the revenue.
+* Cleaned and performed Exploratory Data Analysis, by implementing techniques like a word cloud, Term generation matrix, visualizing neighbourhoods with high Airbnb listings using tableau on a map and carrying out a sentimental analysis on reviews dataset draw insights.
+* Created features from Amenities by performing feature engineering.
+* Finally, evaluated 5 different models, and found out that XGBoost showed maximum accuracy in predicting Airbnb listings' prices.
+
+EDA on the price variable was one of the crucial steps in the complete EDA process. It was found that Manhattan’s average price was greater than the rest of the neighborhood groups. Brooklyn also has higher prices and is mostly because it's closer to Manhattan. Staten Island has higher prices because it's near to the central park.
+
+![](/Airbnb Data Analysis/Tableau Images/Amenities Wordcloud.png)
+
+Now, in the image below, you can see that Average price is high for Manhattan. Since, Brooklyn neighbourhoods are close to Manhattan, they tend to have higher average prices. And in Staten Island areas close to state park tend to have higher prices.
+
+![](/Airbnb Data Analysis/Neighbourhoods with high prices.png)
+
+A review dataset is taken to derive more insights about the amenities. Customer reviews can provide a wealth of information if mined properly. 
+
+A term document matrix has been created which uses the Airbnb customer reviews to find word associations, given a word it gives back closest words in reviews. Keywords like near, close, around, great, place, transit, store are used to find word associations. Finding associations has revealed some interesting insights. New amenities that interest Airbnb customers are found. These are the amenities that are missing in the primary dataset. As this information is missing in our primary dataset, we relied on foursquare API to get information about nearby amenities.
+
+![](/Airbnb Data Analysis/Tweets.png)
+
+
