@@ -1,7 +1,6 @@
 Master's in Data Science
 Illinois Institute of Technology, Chicago, IL
 
-<p align="justify">
 # [Project 1: Covid-19 Spread in US - Project Overview](https://github.com/Shivi15/Covid-19-Spread-in-US)
 * Analyzed the spread and gradual shift of Covid-19 prone counties in the US.
 * Found out the counties with most covid positive cases, and the highest infection rate.
@@ -9,7 +8,7 @@ Illinois Institute of Technology, Chicago, IL
 * Using tableau's racing bar charts and animation found out, only 1.04% of LA counties are infected, 3.3% of Arizona counties are infected, and New York had an alarming infection rate of 13.5%.
 
 Let’s look more closely at the top 10 counties by number of cases.
-</p>
+
 ![]("/Covid-19 Spread images/Counties ranked by Cumulative cases and deaths.gif")
 <p align="justify">
 Percentage of Population infected by County over time.
@@ -23,7 +22,7 @@ To put numbers to this:
 1. Only 1.05% of LA County is infected, whereas Maricopa County in Arizona (home to the state capital of Phoenix) has an infection rate of 3.3%.
 2. New York County (Manhattan) is still alarming with an infection rate of 13.52%!
 3. Trousdale County in Tennessee, with a population of only 7816, has an infection rate of 13.2%. It would be impossible to live here and not know at least one person who’s been infected.
-
+</p>
 
 # [Project 2: Movie Recommendation System](https://github.com/Shivi15/Movie-Rec_System)
 * Developed a Collaborative Filtering Recommender System. Considering only user preferences into account, and if the two users share the same interests.
@@ -32,15 +31,15 @@ To put numbers to this:
 * Implemented two modelling techniques, IBCF and UBCF. Evaluating the ROC curve and Precision-Recall curve, UBCF became the top model with 88.2% accuracy.
 
 Output for the User ID 364 (picked just for example), the following movies are recommended:
-</p>
+
 ![](/Movie Recommendation System/Output.png)
-<p align="justify">
+
 # [Project 3: Airbnb Data Analysis - Project Overview](https://github.com/LohithChowdary/Airbnb-Data-Analysis)
 * Analyzed Airbnb listings in New York City to understand if nonstandard amenities can be added to increase the revenue.
 * Cleaned and performed Exploratory Data Analysis, by implementing techniques like a word cloud, Term generation matrix, visualizing neighbourhoods with high Airbnb listings using tableau on a map and carrying out a sentimental analysis on reviews dataset draw insights.
 * Created features from Amenities by performing feature engineering.
 * Finally, evaluated 5 different models, and found out that XGBoost showed maximum accuracy in predicting Airbnb listings' prices.
-
+<p align="justify">
 EDA on the price variable was one of the crucial steps in the complete EDA process. It was found that Manhattan’s average price was greater than the rest of the neighborhood groups. Brooklyn also has higher prices and is mostly because it's closer to Manhattan. Staten Island has higher prices because it's near to the central park.
 </p>
 ![](/Airbnb Data Analysis/Tableau Images/Amenities Wordcloud.png)
