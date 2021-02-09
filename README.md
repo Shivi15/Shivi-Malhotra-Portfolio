@@ -11,7 +11,7 @@ Data Science Portfolio
 Let’s look more closely at the top 10 counties by number of cases.
 
 <p align="center">
-<img src="https://github.com/Shivi15/Shivi-Malhotra-Portfolio/blob/main/Covid-19%20Spread%20images/Counties%20ranked%20by%20Cumulative%20cases%20and%20deaths.gif" alt="Your image title" width="500"/>
+<img src="/Covid-19 Spread images/Counties ranked by Cumulative cases and deaths.gif" alt="Your image title" width="500"/>
 </p">
   
 Percentage of Population infected by County over time.
