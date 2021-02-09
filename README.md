@@ -1,5 +1,5 @@
-Master's in Data Science
-Illinois Institute of Technology, Chicago, IL
+## Master's in Data Science
+## Illinois Institute of Technology, Chicago, IL
 
 # [Project 1: Covid-19 Spread in US - Project Overview](https://github.com/Shivi15/Covid-19-Spread-in-US)
 * Analyzed the spread and gradual shift of Covid-19 prone counties in the US.
