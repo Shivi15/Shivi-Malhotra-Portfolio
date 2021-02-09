@@ -15,3 +15,13 @@ Let’s look more closely at the top 10 counties by number of cases.
 
   
 Percentage of Population infected by County over time.
+
+![](/Covid-19 Spread images/Percentage of population infected over time.gif)
+
+The clustering of dark red counties seems to shift dramatically away from major metropolitan areas and into rural areas with lower population density. Suddenly, Los Angeles County looks fairly under control, while Arizona, Mississippi, and a smattering of counties in the Midwest look devastated.
+
+To put numbers to this:
+
+1. Only 1.05% of LA County is infected, whereas Maricopa County in Arizona (home to the state capital of Phoenix) has an infection rate of 3.3%.
+2. New York County (Manhattan) is still alarming with an infection rate of 13.52%!
+3. Trousdale County in Tennessee, with a population of only 7816, has an infection rate of 13.2%. It would be impossible to live here and not know at least one person who’s been infected.
