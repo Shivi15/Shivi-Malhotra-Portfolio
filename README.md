@@ -1,5 +1,3 @@
-# Shivi Malhotra
-
 Master's in Data Science
 Illinois Institute of Technology, Chicago, IL
 
