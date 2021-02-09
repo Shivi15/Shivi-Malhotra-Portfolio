@@ -1,9 +1,10 @@
 # Shivi Malhotra
 
-Master's in Data Science, Illinois Institute of Technology, Chicago
+Master's in Data Science
+Illinois Institute of Technology, Chicago, IL
 
 <p align="center">
-<img src="https://github.com/Shivi15/Shivi-Malhotra-Portfolio/blob/main/Shivi%20Malhotra%20Profile%20PIcture.jpg" alt="Your image title" width="500"/>
+<img src="https://github.com/Shivi15/Shivi-Malhotra-Portfolio/blob/main/Shivi%20Malhotra%20Profile%20PIcture.jpg" alt="Your image title" width="300"/>
 </p">
 
 
