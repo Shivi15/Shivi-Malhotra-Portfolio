@@ -1,10 +1,6 @@
 Master's in Data Science
 Illinois Institute of Technology, Chicago, IL
 
-<p align="center">
-![](/Shivi Malhotra Profile PIcture.jpg)
-</p>
-
 # [Project 1: Covid-19 Spread in US - Project Overview](https://github.com/Shivi15/Covid-19-Spread-in-US)
 * Analyzed the spread and gradual shift of Covid-19 prone counties in the US.
 * Found out the counties with most covid positive cases, and the highest infection rate.
@@ -13,10 +9,8 @@ Illinois Institute of Technology, Chicago, IL
 
 Let’s look more closely at the top 10 counties by number of cases.
 
-<p align="center">
-  <img width="400" height="300" src="https://github.com/Shivi15/Shivi-Malhotra-Portfolio/blob/main/Covid-19%20Spread%20images/Counties%20ranked%20by%20Cumulative%20cases%20and%20deaths.gif">
-</p>
-  
+![]("/Covid-19 Spread images/Counties ranked by Cumulative cases and deaths.gif")
+
 Percentage of Population infected by County over time.
 
 ![](/Covid-19 Spread images/Percentage of population infected over time.gif)
