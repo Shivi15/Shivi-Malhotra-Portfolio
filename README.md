@@ -5,7 +5,8 @@ Seeing the slow life in a small desert town of Rajasthan to a fast-paced life of
 divergent worlds can co-exist in the era of the global village. My journey, cultural shocks and learning from
 various institutes and teachers made me discern, there is so much to learn, unlearn and relearn; and it can be
 done wisely, with a comprehensive understanding of information. 
-
+</p>
+<p align="justify">
 Here are a few projects that I got inspired to work on during the course of my Master's degree at IIT, Chicago.
 </p>
 
