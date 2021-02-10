@@ -1,7 +1,14 @@
 ## Master's in Data Science
 ### Illinois Institute of Technology, Chicago, IL
+<p align="justify">
+Seeing the slow life in a small desert town of Rajasthan to a fast-paced life of Singapore, I realized how
+divergent worlds can co-exist in the era of the global village. My journey, cultural shocks and learning from
+various institutes and teachers made me discern, there is so much to learn, unlearn and relearn; and it can be
+done wisely, with a comprehensive understanding of information. 
 
-# [Project 1: Covid-19 Spread in US - Project Overview](https://github.com/Shivi15/Covid-19-Spread-in-US)
+Here are a few projects that I got inspired to work on during the course of my Master's degree at IIT, Chicago.
+</p>
+# [Project 1: Covid-19 Spread in US counties - Project Overview](https://github.com/Shivi15/Covid-19-Spread-in-US)
 * Analyzed the spread and gradual shift of Covid-19 prone counties in the US.
 * Found out the counties with most covid positive cases, and the highest infection rate.
 * Cleaned and performed an inner merge on the two datasets, i.e. Population of each county and Covid-19 cases of these counties.
@@ -24,7 +31,7 @@ To put numbers to this:
 3. Trousdale County in Tennessee, with a population of only 7816, has an infection rate of 13.2%. It would be impossible to live here and not know at least one person who’s been infected.
 
 # [Project 2: Movie Recommendation System - Project Overview](https://github.com/Shivi15/Movie-Rec_System)
-* Developed a Collaborative Filtering Recommender System. Considering only user preferences into account, and if the two users share the same interests.
+* Developed a Collaborative Filtering Recommender System, considering only user preferences into account, and if the two users share the same interests.
 * Using one-hot encoding, extracted and created a search for a movie by genres.
 * Performed data cleaning before learning about the distribution of rating data.
 * Implemented two modelling techniques, IBCF and UBCF. Evaluating the ROC curve and Precision-Recall curve, UBCF became the top model with 88.2% accuracy.
@@ -52,3 +59,7 @@ A review dataset is taken to derive more insights about the amenities. Customer 
 A term document matrix has been created which uses the Airbnb customer reviews to find word associations, given a word it gives back closest words in reviews. Keywords like near, close, around, great, place, transit, store are used to find word associations. Finding associations has revealed some interesting insights. New amenities that interest Airbnb customers are found. These are the amenities that are missing in the primary dataset. As this information is missing in our primary dataset, we relied on foursquare API to get information about nearby amenities.
 </p>
 ![](/Airbnb Data Analysis/Tweets.png)
+
+|                       Contact                       |                      Email-ID                    |                     Linkedin                          |
+| --------------------------------------------------- | ------------------------------------------------ | ---------------------------------------------------   |
+|                    (312)-825-9224                   |           shivimalhotra115@gmail.com             | https://www.linkedin.com/in/shivi-malhotra-535443186/ |
