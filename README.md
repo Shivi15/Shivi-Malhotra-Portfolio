@@ -8,6 +8,7 @@ done wisely, with a comprehensive understanding of information.
 
 Here are a few projects that I got inspired to work on during the course of my Master's degree at IIT, Chicago.
 </p>
+
 # [Project 1: Covid-19 Spread in US counties - Project Overview](https://github.com/Shivi15/Covid-19-Spread-in-US)
 * Analyzed the spread and gradual shift of Covid-19 prone counties in the US.
 * Found out the counties with most covid positive cases, and the highest infection rate.
