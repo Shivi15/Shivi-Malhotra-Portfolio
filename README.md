@@ -8,6 +8,7 @@
 * Using tableau's racing bar charts and animation found out, only 1.04% of LA counties are infected, 3.3% of Arizona counties are infected, and New York had an alarming infection rate of 13.5%.
 
 Let’s look more closely at the top 10 counties by number of cases.
+
 ![]("/Covid-19 Spread images/Counties ranked by Cumulative cases and deaths.gif")
 <p align="justify">
 Percentage of Population infected by County over time.
