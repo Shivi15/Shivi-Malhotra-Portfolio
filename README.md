@@ -1,10 +1,10 @@
 ## Master's in Data Science
 ### Illinois Institute of Technology, Chicago, IL
-
-Seeing the slow life in a small desert town of Rajasthan to a fast-paced life of Singapore, I realized how
-divergent worlds can co-exist in the era of the global village. My journey, cultural shocks and learning from
+<p align="justify">
+Seeing the slow life in a small desert town of Rajasthan to a fast-paced life of Chicago, I realized how
+divergent worlds can co-exist in the era of the global village.</p><p align="justify">My journey, cultural shocks and learning from
 various institutes and teachers made me discern, there is so much to learn, unlearn and relearn; and it can be
-done wisely, with a comprehensive understanding of information. 
+done wisely, with a comprehensive understanding of information.</p> 
 
 Here are a few projects that I got inspired to work on during the course of my Master's degree at IIT, Chicago.
 
