@@ -4,9 +4,7 @@
 Seeing the slow life in a small desert town of Rajasthan to a fast-paced life of Chicago, I realized how
 divergent worlds can co-exist in the era of the global village.</p><p align="justify">My journey, cultural shocks and learning from
 various institutes and teachers made me discern, there is so much to learn, unlearn and relearn; and it can be
-done wisely, with a comprehensive understanding of information.</p> 
-
-Here are a few projects that I got inspired to work on during the course of my Master's degree at IIT, Chicago.
+done wisely, with a comprehensive understanding of information. Here are a few projects that I got inspired to work on during the course of my Master's degree at IIT, Chicago.</p>
 
 # [Project 1: Covid-19 Spread in US counties - Project Overview](https://github.com/Shivi15/Covid-19-Spread-in-US)
 * Analyzed the spread and gradual shift of Covid-19 prone counties in the US.
