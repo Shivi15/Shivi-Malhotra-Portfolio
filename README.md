@@ -15,15 +15,11 @@ done wisely, with a comprehensive understanding of information. Here are a few p
 <p align="justify">
 The analysis revealed that Bitcoin is the first and most dominant cryptocurrency. Despite the rise in Altcoins,  Bitcoins will have the advantage of being widely recognized, operating as the primary  trading pair for all other Altcoins. As Bitcoin rises to $10k and potentially beyond, it  can be expected that Ethereum and other Altcoins follow suit.
 </p>
-
 ![](Shivi15/crytpcurrency-test_data/Cryptocurrency Prices.JPG)
-
 <p align="justify">
 Let’s compare the heat-map outcomes for the years, 2016, 2017, and 2018. As we  can see in the below picture, the correlation has increased like a burning fire across  all the cryptocurrencies. And it occurred to happen all in just a small period of time.
 </p>
-
 ![](Shivi15/crytpcurrency-test_data/heatmaps.JPG)
-
 <p align="justify">
 Since the cryptocurrency market is the only market which isn’t under the control of  the government. With the Bitcoins drastic rise at the end of December 2017, it was  greatly driven by Chinese transactions, as they contribute the greatest to the bitcoin  transactions. Hence, directly or indirectly cryptocurrency market is affected by the  events happening around the world. It would be interesting to notice if any such  correlation exists. 
 </p>
