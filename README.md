@@ -6,7 +6,29 @@ divergent worlds can co-exist in the era of the global village.</p><p align="jus
 various institutes and teachers made me discern, there is so much to learn, unlearn and relearn; and it can be
 done wisely, with a comprehensive understanding of information. Here are a few projects that I got inspired to work on during the course of my Master's degree at IIT, Chicago.</p>
 
-# [Project 1: Covid-19 Spread in US counties - Project Overview](https://github.com/Shivi15/Covid-19-Spread-in-US)
+# [Project 1: Cryptocurrency Dataset - Project Overview](https://github.com/Shivi15/crytpcurrency-test_data)
+* Verified the speculation, whether regulatory incidents drive time-based cryptocurrency data.
+* Gathered, arranged and cleaned data using Pandas libraries to improve research quality and accuracy by 20%.
+* Identified the highly correlated cryptocurrencies (near to +1 or -1).
+* Aligned the team to analyze the Price Trend exhibited by the positively correlated Cryptocurrencies.
+
+<p align="justify">
+The analysis revealed that Bitcoin is the first and most dominant cryptocurrency. Despite the rise in Altcoins,  Bitcoins will have the advantage of being widely recognized, operating as the primary  trading pair for all other Altcoins. As Bitcoin rises to $10k and potentially beyond, it  can be expected that Ethereum and other Altcoins follow suit.
+</p>
+
+![](Shivi15/crytpcurrency-test_data/Cryptocurrency Prices.JPG)
+
+<p align="justify">
+Let’s compare the heat-map outcomes for the years, 2016, 2017, and 2018. As we  can see in the below picture, the correlation has increased like a burning fire across  all the cryptocurrencies. And it occurred to happen all in just a small period of time.
+</p>
+
+![](Shivi15/crytpcurrency-test_data/heatmaps.JPG)
+
+<p align="justify">
+Since the cryptocurrency market is the only market which isn’t under the control of  the government. With the Bitcoins drastic rise at the end of December 2017, it was  greatly driven by Chinese transactions, as they contribute the greatest to the bitcoin  transactions. Hence, directly or indirectly cryptocurrency market is affected by the  events happening around the world. It would be interesting to notice if any such  correlation exists. 
+</p>
+
+# [Project 2: Covid-19 Spread in US counties - Project Overview](https://github.com/Shivi15/Covid-19-Spread-in-US)
 * Analyzed the spread and gradual shift of Covid-19 prone counties in the US.
 * Found out the counties with most covid positive cases, and the highest infection rate.
 * Cleaned and performed an inner merge on the two datasets, i.e. Population of each county and Covid-19 cases of these counties.
@@ -28,7 +50,7 @@ To put numbers to this:
 2. New York County (Manhattan) is still alarming with an infection rate of 13.52%!
 3. Trousdale County in Tennessee, with a population of only 7816, has an infection rate of 13.2%. It would be impossible to live here and not know at least one person who’s been infected.
 
-# [Project 2: Movie Recommendation System - Project Overview](https://github.com/Shivi15/Movie-Rec_System)
+# [Project 3: Movie Recommendation System - Project Overview](https://github.com/Shivi15/Movie-Rec_System)
 * Developed a Collaborative Filtering Recommender System, considering only user preferences into account, and if the two users share the same interests.
 * Using one-hot encoding, extracted and created a search for a movie by genres.
 * Performed data cleaning before learning about the distribution of rating data.
@@ -38,7 +60,7 @@ Output for the User ID 364 (picked just for example), the following movies are r
 
 ![](/Movie Recommendation System/Output.png)
 
-# [Project 3: Airbnb Data Analysis - Project Overview](https://github.com/LohithChowdary/Airbnb-Data-Analysis)
+# [Project 4: Airbnb Data Analysis - Project Overview](https://github.com/LohithChowdary/Airbnb-Data-Analysis)
 * Analyzed Airbnb listings in New York City to understand if nonstandard amenities can be added to increase the revenue.
 * Cleaned and performed Exploratory Data Analysis, by implementing techniques like a word cloud, Term generation matrix, visualizing neighbourhoods with high Airbnb listings using tableau on a map and carrying out a sentimental analysis on reviews dataset draw insights.
 * Created features from Amenities by performing feature engineering.
