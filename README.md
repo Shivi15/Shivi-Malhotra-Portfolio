@@ -27,7 +27,7 @@ Let’s compare the heat-map outcomes for the years, 2016, 2017, and 2018. As we
 Since the cryptocurrency market is the only market which isn’t under the control of  the government. The Bitcoins drastic rise at the end of December 2017, was  greatly driven by Chinese transactions, as they contributed the greatest to Bitcoin  transactions. Hence, directly or indirectly cryptocurrency market is affected by the  events happening around the world. It would be interesting to notice if any such  correlation exists. 
 </p>
 
-# [Project 2: Covid-19 Spread in US counties - Project Overview](https://github.com/Shivi15/Covid-19-Spread-in-US)
+# [Project 2: Covid-19 Spread in US counties - Project Overview](https://github.com/Shivi15/Covid19_Spread_in_US)
 * Analyzed the spread and gradual shift of Covid-19-prone counties in the US.
 * Found out the counties with the most COVID-19-positive cases and the highest infection rate.
 * Cleaned and performed an inner merge on the two datasets, i.e. Population of each county and COVID-19 cases of these counties.
@@ -39,7 +39,7 @@ Let’s look more closely at the top 10 counties by number of cases.
 <p align="justify">
 Percentage of Population infected by County over time.
 </p>
-![Percentage of the population infected over time](/Covid-19 Spread images/Percentage_of_population_infected_over_time.gif)
+![Percentage of the population infected over time](/Covid19_Spread_images/Percentage_of_population_infected_over_time.gif)
 <p align="justify">
 The clustering of dark red counties seems to shift dramatically away from major metropolitan areas and into rural areas with lower population density. Suddenly, Los Angeles County looks fairly under control, while Arizona, Mississippi, and a smattering of counties in the Midwest look devastated.
 </p>
@@ -49,7 +49,7 @@ To put numbers to this:
 2. New York County (Manhattan) is still alarming with an infection rate of 13.52%!
 3. Trousdale County in Tennessee, with a population of only 7816, has an infection rate of 13.2%. It would be impossible to live here and not know at least one person who’s been infected.
 
-# [Project 3: Movie Recommendation System - Project Overview](https://github.com/Shivi15/Movie-Rec_System)
+# [Project 3: Movie Recommendation System - Project Overview](https://github.com/Shivi15/Movie_Rec_System)
 * Developed a Collaborative Filtering Recommender System, considering only user preferences into account, and if the two users share the same interests.
 * Using one-hot encoding, extracted and created a search for a movie by genre.
 * Performed data cleaning before learning about the distribution of rating data.
@@ -57,9 +57,9 @@ To put numbers to this:
 
 Output for the User ID 364 (picked just for example), the following movies are recommended:
 
-![Output](/Movie Recommendation System/Output.png)
+![Output](/Movie_Recommendation_System/Output.png)
 
-# [Project 4: Airbnb Data Analysis - Project Overview](https://github.com/LohithChowdary/Airbnb-Data-Analysis)
+# [Project 4: Airbnb Data Analysis - Project Overview](https://github.com/LohithChowdary/Airbnb_Data_Analysis)
 * Analyzed Airbnb listings in New York City to understand if nonstandard amenities can be added to increase revenue.
 * Cleaned and performed Exploratory Data Analysis, by implementing techniques like a word cloud and term generation matrix, visualizing neighbourhoods with high Airbnb listings using tableau on a map and carrying out a sentimental analysis on reviews dataset to draw insights.
 * Created features from Amenities by performing feature engineering.
@@ -67,17 +67,17 @@ Output for the User ID 364 (picked just for example), the following movies are r
 <p align="justify">
 EDA on the price variable was one of the crucial steps in the complete EDA process. It was found that Manhattan’s average price was greater than the rest of the neighborhood groups. Brooklyn also has higher prices and is mostly because it's closer to Manhattan. Staten Island has higher prices because it's near to the central park.
 </p>
-![Amenities Wordcloud](/Airbnb Data Analysis/Tableau Images/Amenities Wordcloud.png)
+![Amenities_Wordcloud](/Airbnb_Data_Analysis/Tableau_Images/Amenities_Wordcloud.png)
 <p align="justify">
 Now, in the image below, you can see that Average price is high for Manhattan. Since, Brooklyn neighbourhoods are close to Manhattan, they tend to have higher average prices. And in Staten Island areas close to state park tend to have higher prices.
 </p>
-![Neighbourhoods with high prices](/Airbnb Data Analysis/Neighbourhoods with high prices.png)
+![Neighbourhoods_with high prices](/Airbnb_Data_Analysis/Neighbourhoods_with_high_prices.png)
 <p align="justify">
 A review dataset is taken to derive more insights about the amenities. Customer reviews can provide a wealth of information if mined properly. 
 
 A term document matrix has been created which uses the Airbnb customer reviews to find word associations, given a word it gives back closest words in reviews. Keywords like near, close, around, great, place, transit, store are used to find word associations. Finding associations has revealed some interesting insights. New amenities that interest Airbnb customers are found. These are the amenities that are missing in the primary dataset. As this information is missing in our primary dataset, we relied on foursquare API to get information about nearby amenities.
 </p>
-![Tweets](/Airbnb Data Analysis/Tweets.png)
+![Tweets](/Airbnb_Data_Analysis/Tweets.png)
 
 |                       Contact                       |                      Email-ID                    |                     Linkedin                          |
 | --------------------------------------------------- | ------------------------------------------------ | ---------------------------------------------------   |
