@@ -35,11 +35,11 @@ Since the cryptocurrency market is the only market which isn’t under the contr
 
 Let’s look more closely at the top 10 counties by number of cases.
 
-![Counties ranked by Cumulative cases and deaths](/Covid-19 Spread images/Counties ranked by Cumulative cases and deaths.gif)
+![Counties_ranked_by_Cumulative_cases_and_deaths](/Covid-19 Spread images/Counties_ranked_by_Cumulative_cases_and_deaths.gif)
 <p align="justify">
 Percentage of Population infected by County over time.
 </p>
-![Percentage of population infected over time](/Covid-19 Spread images/Percentage of population infected over time.gif)
+![Percentage of population infected over time](/Covid-19 Spread images/Percentage_of_population_infected_over_time.gif)
 <p align="justify">
 The clustering of dark red counties seems to shift dramatically away from major metropolitan areas and into rural areas with lower population density. Suddenly, Los Angeles County looks fairly under control, while Arizona, Mississippi, and a smattering of counties in the Midwest look devastated.
 </p>
