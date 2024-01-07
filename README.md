@@ -15,12 +15,12 @@ done wisely, with a comprehensive understanding of information. Here are a few p
 <p align="justify">
 The analysis revealed that Bitcoin is the first and most dominant cryptocurrency. Despite the rise in Altcoins,  Bitcoins will have the advantage of being widely recognized, operating as the primary  trading pair for all other Altcoins. As Bitcoin rises to $10k and potentially beyond, it  can be expected that Ethereum and other Altcoins follow suit.
 </p>
-![](/Cryptocurrency/Cryptocurrency Prices.jpeg)
+![Cryptocurrency Prices](/Cryptocurrency/Cryptocurrency Prices.jpeg)
 <p align="justify">
 Let’s compare the heat-map outcomes for the years, 2016, 2017, and 2018. As we  can see in the below picture, the correlation has increased like a burning fire across  all the cryptocurrencies. And it occurred to happen all in just a small period of time.
 </p>
 
-![hello](/Cryptocurrency/heatmaps.jpeg)
+![heatmaps](/Cryptocurrency/heatmaps.jpeg)
 <p align="justify">
 Since the cryptocurrency market is the only market which isn’t under the control of  the government. With the Bitcoins drastic rise at the end of December 2017, it was  greatly driven by Chinese transactions, as they contribute the greatest to the bitcoin  transactions. Hence, directly or indirectly cryptocurrency market is affected by the  events happening around the world. It would be interesting to notice if any such  correlation exists. 
 </p>
@@ -33,11 +33,11 @@ Since the cryptocurrency market is the only market which isn’t under the contr
 
 Let’s look more closely at the top 10 counties by number of cases.
 
-![](/Covid-19 Spread images/Counties ranked by Cumulative cases and deaths.gif)
+![Counties ranked by Cumulative cases and deaths](/Covid-19 Spread images/Counties ranked by Cumulative cases and deaths.gif)
 <p align="justify">
 Percentage of Population infected by County over time.
 </p>
-![](/Covid-19 Spread images/Percentage of population infected over time.gif)
+![Percentage of population infected over time](/Covid-19 Spread images/Percentage of population infected over time.gif)
 <p align="justify">
 The clustering of dark red counties seems to shift dramatically away from major metropolitan areas and into rural areas with lower population density. Suddenly, Los Angeles County looks fairly under control, while Arizona, Mississippi, and a smattering of counties in the Midwest look devastated.
 </p>
@@ -55,7 +55,7 @@ To put numbers to this:
 
 Output for the User ID 364 (picked just for example), the following movies are recommended:
 
-![](/Movie Recommendation System/Output.png)
+![Output](/Movie Recommendation System/Output.png)
 
 # [Project 4: Airbnb Data Analysis - Project Overview](https://github.com/LohithChowdary/Airbnb-Data-Analysis)
 * Analyzed Airbnb listings in New York City to understand if nonstandard amenities can be added to increase the revenue.
@@ -65,17 +65,17 @@ Output for the User ID 364 (picked just for example), the following movies are r
 <p align="justify">
 EDA on the price variable was one of the crucial steps in the complete EDA process. It was found that Manhattan’s average price was greater than the rest of the neighborhood groups. Brooklyn also has higher prices and is mostly because it's closer to Manhattan. Staten Island has higher prices because it's near to the central park.
 </p>
-![](/Airbnb Data Analysis/Tableau Images/Amenities Wordcloud.png)
+![Amenities Wordcloud](/Airbnb Data Analysis/Tableau Images/Amenities Wordcloud.png)
 <p align="justify">
 Now, in the image below, you can see that Average price is high for Manhattan. Since, Brooklyn neighbourhoods are close to Manhattan, they tend to have higher average prices. And in Staten Island areas close to state park tend to have higher prices.
 </p>
-![](/Airbnb Data Analysis/Neighbourhoods with high prices.png)
+![Neighbourhoods with high prices](/Airbnb Data Analysis/Neighbourhoods with high prices.png)
 <p align="justify">
 A review dataset is taken to derive more insights about the amenities. Customer reviews can provide a wealth of information if mined properly. 
 
 A term document matrix has been created which uses the Airbnb customer reviews to find word associations, given a word it gives back closest words in reviews. Keywords like near, close, around, great, place, transit, store are used to find word associations. Finding associations has revealed some interesting insights. New amenities that interest Airbnb customers are found. These are the amenities that are missing in the primary dataset. As this information is missing in our primary dataset, we relied on foursquare API to get information about nearby amenities.
 </p>
-![](/Airbnb Data Analysis/Tweets.png)
+![Tweets](/Airbnb Data Analysis/Tweets.png)
 
 |                       Contact                       |                      Email-ID                    |                     Linkedin                          |
 | --------------------------------------------------- | ------------------------------------------------ | ---------------------------------------------------   |
