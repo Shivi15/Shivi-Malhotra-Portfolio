@@ -19,7 +19,8 @@ The analysis revealed that Bitcoin is the first and most dominant cryptocurrency
 <p align="justify">
 Let’s compare the heat-map outcomes for the years, 2016, 2017, and 2018. As we  can see in the below picture, the correlation has increased like a burning fire across  all the cryptocurrencies. And it occurred to happen all in just a small period of time.
 </p>
-![](/Cryptocurrency/heatmaps.jpeg)
+
+![hello](/Cryptocurrency/heatmaps.jpeg)
 <p align="justify">
 Since the cryptocurrency market is the only market which isn’t under the control of  the government. With the Bitcoins drastic rise at the end of December 2017, it was  greatly driven by Chinese transactions, as they contribute the greatest to the bitcoin  transactions. Hence, directly or indirectly cryptocurrency market is affected by the  events happening around the world. It would be interesting to notice if any such  correlation exists. 
 </p>
