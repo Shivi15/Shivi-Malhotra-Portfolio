@@ -4,7 +4,7 @@
 Seeing the slow life in a small desert town of Rajasthan to a fast-paced life of Chicago, I realized how
 divergent worlds can co-exist in the era of the global village.</p><p align="justify">My journey, cultural shocks and learning from
 various institutes and teachers made me discern, there is so much to learn, unlearn and relearn; and it can be
-done wisely, with a comprehensive understanding of information. Here are a few projects that I got inspired to work on during the course of my Master's degree at IIT, Chicago.</p>
+done wisely, with a comprehensive understanding of information. Here are a few projects that I got inspired to work on during my Master's degree at IIT, Chicago.</p>
 
 # [Project 1: Cryptocurrency Dataset - Project Overview](https://github.com/Shivi15/crytpcurrency-test_data)
 * Verified the speculation, whether regulatory incidents drive time-based cryptocurrency data.
@@ -19,27 +19,27 @@ The analysis revealed that Bitcoin is the first and most dominant cryptocurrency
 
 ![CryptocurrencyPrices](/Cryptocurrency/CryptocurrencyPrices.jpeg)
 <p align="justify">
-Let’s compare the heat-map outcomes for the years, 2016, 2017, and 2018. As we  can see in the below picture, the correlation has increased like a burning fire across  all the cryptocurrencies. And it occurred to happen all in just a small period of time.
+Let’s compare the heat-map outcomes for the years, 2016, 2017, and 2018. As we  can see in the below picture, the correlation has increased like a burning fire across  all the cryptocurrencies. And it occurred all in just a short period.
 </p>
 
 ![heatmaps](/Cryptocurrency/heatmaps.jpeg)
 <p align="justify">
-Since the cryptocurrency market is the only market which isn’t under the control of  the government. With the Bitcoins drastic rise at the end of December 2017, it was  greatly driven by Chinese transactions, as they contribute the greatest to the bitcoin  transactions. Hence, directly or indirectly cryptocurrency market is affected by the  events happening around the world. It would be interesting to notice if any such  correlation exists. 
+Since the cryptocurrency market is the only market which isn’t under the control of  the government. The Bitcoins drastic rise at the end of December 2017, was  greatly driven by Chinese transactions, as they contributed the greatest to Bitcoin  transactions. Hence, directly or indirectly cryptocurrency market is affected by the  events happening around the world. It would be interesting to notice if any such  correlation exists. 
 </p>
 
 # [Project 2: Covid-19 Spread in US counties - Project Overview](https://github.com/Shivi15/Covid-19-Spread-in-US)
-* Analyzed the spread and gradual shift of Covid-19 prone counties in the US.
-* Found out the counties with most covid positive cases, and the highest infection rate.
-* Cleaned and performed an inner merge on the two datasets, i.e. Population of each county and Covid-19 cases of these counties.
-* Using tableau's racing bar charts and animation found out, only 1.04% of LA counties are infected, 3.3% of Arizona counties are infected, and New York had an alarming infection rate of 13.5%.
+* Analyzed the spread and gradual shift of Covid-19-prone counties in the US.
+* Found out the counties with the most COVID-19-positive cases and the highest infection rate.
+* Cleaned and performed an inner merge on the two datasets, i.e. Population of each county and COVID-19 cases of these counties.
+* Using Tableau's racing bar charts and animation found out, that only 1.04% of LA counties are infected, 3.3% of Arizona counties are infected, and New York had an alarming infection rate of 13.5%.
 
 Let’s look more closely at the top 10 counties by number of cases.
 
-![Counties_ranked_by_Cumulative_cases_and_deaths](/Covid-19 Spread images/Counties_ranked_by_Cumulative_cases_and_deaths.gif)
+![Counties_ranked_by_Cumulative_cases_and_deaths](/Covid19_Spread_images/Counties_ranked_by_Cumulative_cases_and_deaths.gif)
 <p align="justify">
 Percentage of Population infected by County over time.
 </p>
-![Percentage of population infected over time](/Covid-19 Spread images/Percentage_of_population_infected_over_time.gif)
+![Percentage of the population infected over time](/Covid-19 Spread images/Percentage_of_population_infected_over_time.gif)
 <p align="justify">
 The clustering of dark red counties seems to shift dramatically away from major metropolitan areas and into rural areas with lower population density. Suddenly, Los Angeles County looks fairly under control, while Arizona, Mississippi, and a smattering of counties in the Midwest look devastated.
 </p>
@@ -51,7 +51,7 @@ To put numbers to this:
 
 # [Project 3: Movie Recommendation System - Project Overview](https://github.com/Shivi15/Movie-Rec_System)
 * Developed a Collaborative Filtering Recommender System, considering only user preferences into account, and if the two users share the same interests.
-* Using one-hot encoding, extracted and created a search for a movie by genres.
+* Using one-hot encoding, extracted and created a search for a movie by genre.
 * Performed data cleaning before learning about the distribution of rating data.
 * Implemented two modelling techniques, IBCF and UBCF. Evaluating the ROC curve and Precision-Recall curve, UBCF became the top model with 88.2% accuracy.
 
@@ -60,8 +60,8 @@ Output for the User ID 364 (picked just for example), the following movies are r
 ![Output](/Movie Recommendation System/Output.png)
 
 # [Project 4: Airbnb Data Analysis - Project Overview](https://github.com/LohithChowdary/Airbnb-Data-Analysis)
-* Analyzed Airbnb listings in New York City to understand if nonstandard amenities can be added to increase the revenue.
-* Cleaned and performed Exploratory Data Analysis, by implementing techniques like a word cloud, Term generation matrix, visualizing neighbourhoods with high Airbnb listings using tableau on a map and carrying out a sentimental analysis on reviews dataset draw insights.
+* Analyzed Airbnb listings in New York City to understand if nonstandard amenities can be added to increase revenue.
+* Cleaned and performed Exploratory Data Analysis, by implementing techniques like a word cloud and term generation matrix, visualizing neighbourhoods with high Airbnb listings using tableau on a map and carrying out a sentimental analysis on reviews dataset to draw insights.
 * Created features from Amenities by performing feature engineering.
 * Finally, evaluated 5 different models, and found out that XGBoost showed maximum accuracy in predicting Airbnb listings' prices.
 <p align="justify">
